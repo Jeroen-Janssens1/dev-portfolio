@@ -2,6 +2,8 @@
 A repo that simply holds links rediricting to the various projects I have worked on, am working on or will be working on in the near future.
 
 ## Projects with code available on GitHub
+- https://github.com/Jeroen-Janssens1/Chemu8
+  - A CHIP-8 emulator written in C++. Implements the entire massive instruction set of 35 opcodes that the original had. CHIP-8 emulators are essentially the 'Hello World' programs of emulation.
 - https://github.com/Jeroen-Janssens1/BasicWebApp
   - I mostly made this project to refresh my back-end developing knowledge and basics for both PHP and Java.
 - https://github.com/Jeroen-Janssens1/Engine---Prog-4-Assignment
@@ -19,6 +21,5 @@ These two prototypes were made during my 2 Games A Month internship.
 - https://daestudios.itch.io/waxarus
 
 ## Planned projects
-- Algorithm Visualizer
 - Chess Game with PHP / Java back-end
-- Chip8 Emulator in C++
+- Gameboy Emulator in C++ (yes, I caught the emulator bug)
