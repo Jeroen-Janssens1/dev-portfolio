@@ -20,6 +20,9 @@ These two prototypes were made during my 2 Games A Month internship.
 - https://daestudios.itch.io/scribbles-of-madness
 - https://daestudios.itch.io/waxarus
 
+## Projects in progress
+- https://github.com/Jeroen-Janssens1/WebChess
+  - A chess game made as a web application using REACT for the front-end and Java Spring Boot for the back-end. Will allow you to play games on the same device, against the CPU as well as making and joining rooms for online   play.
+
 ## Planned projects
-- Chess Game with PHP / Java back-end
 - Gameboy Emulator in C++ (yes, I caught the emulator bug)
